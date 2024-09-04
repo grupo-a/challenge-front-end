@@ -93,3 +93,8 @@ Os mockups da interface foram fornecidos e servem como guia para a criação do 
   - Lista de bibliotecas de terceiros utilizadas
   - O que você melhoraria se tivesse mais tempo
   - Quais requisitos obrigatórios que não foram entregues
+- Informe ao recrutador quando concluir o desafio junto com o link do repositório
+
+---
+
+Nesse texto, sugeri que o usuário pode clicar no link para abrir o Figma em uma nova aba. No entanto, não é possível garantir tecnicamente que o link abrirá em uma nova aba, a menos que o usuário faça isso manualmente.
